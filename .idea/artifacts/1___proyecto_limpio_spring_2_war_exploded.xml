@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="1 - proyecto-limpio-spring_2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/1___proyecto_limpio_spring_2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="1 - proyecto-limpio-spring_2/web/Web" />
+    </root>
+  </artifact>
+</component>
