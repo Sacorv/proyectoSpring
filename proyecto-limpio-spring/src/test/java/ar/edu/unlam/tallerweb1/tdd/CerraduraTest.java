@@ -32,7 +32,7 @@ public class CerraduraTest {
 
     @Test
     public void alCerrarConCodigoLaCajaFuerteDebeEstarCerrada(){
-        CajaFuerte caja = givenCreoUnaCajaFuerte();
+        CajFuerte caja = givenCreoUnaCajaFuerte();
 
         whenCierroLaCajaFuerteConCodigo(caja, CODIGO_DE_APERTURA);
 
